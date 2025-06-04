@@ -4,5 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MarkelQuevedo/Scenes/Menu.unity
+    guid: 67e71d0a6d49c914aaca61afc149b94d
+  - enabled: 1
+    path: Assets/MarkelQuevedo/Scenes/PlanosN.unity
+    guid: 023991e28524a6c4f9e6d182115b1e97
+  - enabled: 1
+    path: Assets/MarkelQuevedo/Scenes/PlanosR.unity
+    guid: f005c4b65482ddc45afe7c52fc0982ed
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: f1fb891d94986514db2846851c4d47c5, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: a7a3a05cdcc74884ebc7ac334f449c94, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: fb8d883502cdfe9478409c68721f8632, type: 2}
